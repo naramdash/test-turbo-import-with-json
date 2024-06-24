@@ -1,0 +1,11 @@
+{
+  "name": "test-turbo-import-with-json",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "package-with-json",
+    "app"
+  ]
+}
